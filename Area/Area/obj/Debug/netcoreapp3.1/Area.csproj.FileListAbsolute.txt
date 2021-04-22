@@ -1,0 +1,8 @@
+D:\TEST\test\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+D:\TEST\test\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+D:\TEST\test\Area\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+D:\TEST\test\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+D:\TEST\test\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+D:\TEST\test\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+D:\TEST\test\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+D:\TEST\test\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb
